@@ -1,3 +1,6 @@
-我就是试试能不能做一个自动机翻小工具
+An auto translate tool for Limbus Company. English version to Simplifed Chinese.
+Using native localization interface.
+Based on LLC.
 
-先来学习一下目前零协的库吧
+一个自动机翻工具，基于小金的本地化接口完成。
+翻译参考零协汉化。

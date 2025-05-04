@@ -32,4 +32,8 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# API Keys and Config
+.env
+config/config.py 
